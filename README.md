@@ -1,17 +1,13 @@
 # Final Project – Simple Interest Calculator
 
-This repository contains the final project for the Git and GitHub hands-on lab.  
-The project demonstrates basic Git operations, repository management, and scripting.
+This repository contains a Bash script that calculates **Simple Interest** based on the user’s input.
 
-## Files Included
-- `simple-interest.sh` – Shell script to calculate simple interest.
-- `LICENSE` – Apache 2.0 license file.
-- `CODE_OF_CONDUCT.md` – Contributor guidelines for ethical collaboration.
-- `CONTRIBUTING.md` – Steps for contributing to this project.
+---
 
-## Author
-**Surendra Challa**
+## 🧮 About the Project
+The `simple-interest.sh` script takes three inputs:
+- **Principal Amount (P)**
+- **Rate of Interest (R)**
+- **Time (T)**
 
-## License
-This project is licensed under the terms of the Apache 2.0 License.
-
+Then it calculates **Simple Interest (SI)** using the formula:
