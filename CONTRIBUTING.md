@@ -13,5 +13,6 @@ We welcome all contributions that help improve this repository — whether it’
 
 2. **Clone your fork locally**
    ```bash
-   git clone https://github.com/<your-username>/Final-Project-31354.git
+   git clone https://github.com/surengit059/Final-Project-31354.git
    cd Final-Project-31354
+
